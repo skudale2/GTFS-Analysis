@@ -1,0 +1,4 @@
+service_id,service_description
+c_19302_b_32733_d_31,Yearly Service Reduced (Weekday)
+c_19302_b_32733_d_32,Yearly Service Reduced (Saturday only)
+c_19302_b_32733_d_64,Yearly Service Reduced (Sunday only)

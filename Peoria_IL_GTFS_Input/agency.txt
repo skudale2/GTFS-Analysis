@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
+594,http://www.ridecitylink.org/,en,CityLink,309-676-4040,America/Chicago,https://www.ridecitylink.org/fares/,

@@ -1,0 +1,1027 @@
+stop_id,stop_city
+6220,Peoria
+1425,Peoria
+2306,East Peoria
+1438,Peoria
+2360,Peoria
+6300,Peoria
+9551,East Peoria
+1614,Peoria
+4410,Peoria
+3230,Peoria
+1851,Peoria
+1201,Peoria
+1520,Peoria
+5110,West Peoria
+1708,Pekin
+9170,East Peoria
+1624,Peoria
+1814,Pekin
+3900,Peoria
+4670,Peoria
+4801,Peoria
+1644,Peoria
+7290,Peoria
+1231,Peoria
+3301,Peoria
+1465,Peoria
+8300,East Peoria
+1240,Peoria
+1134,Peoria
+5340,Peoria
+5660,Peoria
+1036,Peoria
+4720,Peoria
+9260,East Peoria
+8800,East Peoria
+1208,Peoria
+1357,Peoria
+1225,Peoria Heights
+1333,Peoria
+1135,Peoria
+4460,Peoria
+9240,East Peoria
+4390,Peoria
+1505,Peoria
+1920,Peoria
+5640,Peoria
+4230,Peoria
+1143,West Peoria
+5370,Peoria
+1337,Peoria
+2380,Peoria
+1125,Peoria
+1160,Peoria
+1326,Peoria
+1128,Peoria
+8110,East Peoria
+1940,Peoria
+2521,Peoria
+1449,Peoria
+1519,Peoria
+1648,Peoria
+1355,Peoria
+5500,Peoria
+1860,Peoria
+8360,Springfield
+1656,Peoria
+4450,Peoria
+3700,Peoria
+4336,"Peoria, Il"
+3600,Peoria
+1649,Peoria
+2399,Peoria
+1021,Peoria
+1409,Peoria
+1522,Peoria
+1819,Pekin
+2440,Peoria
+1113,Peoria
+1011,Peoria
+9509,Pottstown
+0231,East Peoria
+9201,East Peoria
+6130,Peoria
+1283,Peoria
+5120,West Peoria
+1453,Peoria
+1354,Peoria
+1101,Peoria
+1270,Peoria Heights
+5260,Springfield
+1805,Pekin
+2015,East Peoria
+1031,Peoria
+1405,Peoria
+8900,East Peoria
+1349,Peoria
+1312,Peoria
+9150,East Peoria
+2351,Peoria
+9700,East Peoria
+2201,Peoria
+1652,Peoria
+1508,Bellevue
+5601,West Peoria
+1523,Peoria
+8590,East Peoria
+5530,West Peoria
+2419,Peoria
+1628,Peoria
+4690,Peoria
+1257,Peoria
+1416,Peoria
+1227,Peoria Heights
+1419,Peoria
+1035,Peoria
+4160,Peoria
+8400,East Peoria
+8150,East Peoria
+1219,Peoria Heights
+7500,Peoria
+8240,Springfield
+1328,Peoria
+1606,Peoria
+1202,Peoria
+8350,East Peoria
+1452,Peoria
+6900,Peoria
+9130,East Peoria
+7900,Peoria
+1230,Peoria
+1609,Peoria
+1613,Peoria
+2311,Wesley
+3028,Peoria
+1723,Springfield
+2110,Long Shore Park
+1900,Peoria
+6180,Peoria
+3390,Springfield
+8560,East Peoria
+6500,Peoria
+5150,West Peoria
+1051,Peoria
+3210,Peoria
+8180,East Peoria
+7440,Bellevue
+9502,Peoria
+4280,Peoria
+3300,Peoria
+3330,Peoria
+1320,Peoria
+1243,Peoria
+4120,Peoria
+1616,Peoria
+2420,Peoria
+7280,Peoria
+2004,Washington
+0141,Peoria
+1761,Peoria
+1284,Peoria
+1013,Springfield
+9507,Springfield
+1507,Peoria
+3401,Peoria
+1045,Peoria
+1338,Peoria
+2309,East Peoria
+1407,Peoria
+4620,Peoria
+1721,Pekin
+2105,Chillicothe
+2480,Peoria Heights
+5410,Springfield
+2430,Peoria
+7800,Pottstown
+4590,Peoria
+1803,Pekin
+1730,Peoria
+8510,East Peoria
+1706,Springfield
+1260,Peoria Heights
+1029,Peoria
+1318,Peoria
+1238,Peoria
+1300,Peoria
+9200,Springfield
+6120,Peoria
+9290,East Peoria
+6330,Peoria
+7150,Peoria
+1274,Peoria Heights
+2700,Peoria Heights
+1802,Pekin
+1336,Peoria
+6301,Peoria
+2005,East Peoria
+1551,Peoria
+2341,Peoria
+4401,Peoria
+2490,Peoria
+2460,Peoria
+4780,Peoria
+8210,East Peoria
+5170,West Peoria
+1016,Peoria
+2021,East Peoria
+6320,Peoria
+3140,Peoria
+1250,Peoria
+1315,Peoria
+1500,Peoria
+1460,Peoria
+1717,Pekin
+8100,Washington
+4370,Peoria
+2410,Peoria
+1701,Springfield
+1830,Peoria
+4290,Peoria
+4320,Peoria
+1038,Peoria
+5460,Peoria
+1255,Peoria
+4380,Peoria
+7320,Peoria
+2230,Peoria
+2270,Peoria
+1391,Peoria
+3170,Peoria
+2120,Peoria
+1372,Peoria
+1268,Peoria Heights
+2281,Peoria
+2016,East Peoria
+2304,Wesley
+1161,Peoria
+1293,Peoria
+2280,Peoria
+1509,Peoria
+4490,Peoria
+6340,Peoria
+3110,Peoria
+7600,Maxwell
+1930,Peoria
+1634,Peoria
+1133,Peoria
+1343,Peoria
+1440,Peoria
+1120,Peoria
+5540,West Peoria
+1638,Peoria
+1004,Peoria
+6101,Peoria
+1770,Peoria
+1302,Peoria
+2003,Washington
+4310,Peoria
+1288,Peoria
+1170,Peoria
+2370,Peoria Heights
+1725,Pekin
+1608,Peoria
+5590,West Peoria
+1375,Peoria
+1126,Peoria
+5560,West Peoria
+5501,West Peoria
+1861,Peoria
+5630,Peoria
+9600,East Peoria
+4250,Peoria
+9250,East Peoria
+1200,Peoria
+1023,Peoria
+1402,Peoria
+1147,Peoria
+4301,Peoria
+1432,Peoria
+2140,Peoria
+2511,Peoria
+4430,Peoria
+1840,Peoria
+6018,Peoria
+7210,Peoria
+2001,East Peoria
+1012,Peoria
+1006,Peoria
+1282,Peoria
+8200,East Peoria
+5420,Peoria
+1310,Peoria
+2401,Peoria
+1615,Peoria
+1115,Peoria
+1259,Peoria
+1290,Peoria
+5350,Peoria
+1341,Peoria
+1222,Peoria Heights
+1204,Peoria
+7140,Peoria
+8440,East Peoria
+2108,Peoria
+1637,Peoria
+1214,Peoria
+1046,Peoria
+7190,Peoria
+1285,Peoria
+1217,Peoria Heights
+1258,Peoria Heights
+1607,Peoria
+1529,Bellevue
+1516,Peoria
+4520,Peoria
+7340,Peoria
+1358,Peoria
+7220,Peoria
+1630,Peoria
+8420,East Peoria
+6170,Peoria
+1106,West Peoria
+9180,East Peoria
+1434,Peoria
+1206,Peoria
+1100,Peoria
+1411,Peoria
+1263,Peoria
+1347,Peoria
+1451,Peoria
+1141,Springfield
+1224,Peoria Heights
+1247,Peoria
+1307,Peoria
+4500,Peoria
+1711,Springfield
+3250,Peoria
+1424,Peoria
+4580,Peoria
+1812,Pekin
+2800,Peoria
+3370,Peoria
+7700,Peoria
+1180,Peoria
+1112,Peoria
+1880,Peoria
+9522,East Peoria
+2651,Peoria
+5470,Peoria
+5800,Peoria
+1724,Springfield
+1437,Peoria
+1661,Peoria
+1640,Peoria
+1714,Pekin
+1719,Pekin
+3311,Peoria
+1332,Springfield
+1340,Peoria
+2210,Peoria
+1705,Pekin
+1739,Pekin
+4600,Peoria
+1140,Peoria
+9101,East Peoria
+2320,Peoria
+1760,Peoria
+4140,Peoria
+1104,West Peoria
+2250,Peoria
+1619,Peoria
+4305,Peoria
+1055,Peoria
+1506,Bellevue
+1181,Peoria
+1249,Peoria
+1654,Peoria
+8130,East Peoria
+6150,Peoria
+2009,East Peoria
+1457,Peoria Heights
+1804,Pekin
+7165,Peoria
+1790,Peoria
+9230,East Peoria
+2321,Peoria
+8280,Springfield
+8601,East Peoria
+3100,Peoria
+5700,Springfield
+1252,Peoria
+1107,West Peoria
+1373,Peoria
+6110,Peoria
+6370,Peoria
+1353,Peoria
+8501,East Peoria
+5300,Peoria
+1580,Peoria
+1610,Peoria
+8301,Springfield
+1707,Springfield
+1022,Peoria
+1003,Peoria
+1226,Peoria Heights
+4560,Peoria
+1032,Peoria
+1658,Springfield
+1335,Peoria
+5210,Peoria
+8470,East Peoria
+1244,Peoria
+1901,Peoria
+1653,Peoria
+1751,Peoria
+2260,Springfield
+1512,Peoria
+2107,Chillicothe
+1331,Peoria
+1501,Bellevue
+5160,West Peoria
+7100,Pottstown
+4650,Peoria
+1205,Peoria
+1014,Peoria
+1211,Peoria
+1454,Peoria
+2451,Peoria
+4730,Peoria
+4660,Peoria
+1427,Peoria
+1137,Peoria
+5440,Peoria
+1710,Pekin
+1287,Peoria
+5140,West Peoria
+1279,Peoria
+1050,Peoria
+1362,Peoria
+1400,Peoria
+5270,Springfield
+1296,Peoria
+1265,Peoria Heights
+2022,Washington
+1108,West Peoria
+5201,Peoria
+1356,Peoria
+5401,Peoria
+7360,Peoria
+3360,Peoria
+1102,Peoria
+1271,Peoria Heights
+2470,Peoria
+1641,Peoria
+1303,Peoria
+5310,Peoria
+1317,Peoria
+1450,Peoria
+1850,Peoria
+1042,Peoria
+1130,Peoria
+1468,Peoria
+7495,Maxwell
+0114,Pekin
+5550,West Peoria
+1463,Peoria
+7370,Peoria
+1561,Peoria
+2500,Long Shore Park
+1647,Peoria
+9800,East Peoria
+7310,Peoria
+8160,East Peoria
+1254,Peoria
+5230,Peoria
+1750,Peoria
+1456,Peoria Heights
+1027,Peoria
+1262,Peoria Heights
+4270,Peoria
+7270,Peoria
+1148,Peoria
+4400,Peoria
+0104,Pekin
+7300,Peoria
+1511,Peoria
+1532,Bellevue
+1715,Pekin
+1110,West Peoria
+1722,Pekin
+1301,Peoria
+1560,Peoria
+1502,Bellevue
+1681,Peoria
+1462,Peoria
+4240,Peoria
+1374,Peoria
+1116,Peoria
+6190,Peoria
+1524,Peoria
+1818,Pekin
+1813,Pekin
+1480,Peoria
+9100,East Peoria
+1626,Peoria
+1026,Peoria
+1020,Peoria
+7260,Peoria
+1513,Peoria
+1771,Peoria
+1261,Peoria
+2170,Peoria
+1600,Peoria
+5400,Peoria
+3190,Springfield
+9400,East Peoria
+1220,Peoria Heights
+4470,Peoria
+1811,Pekin
+1525,Peoria
+1420,Peoria
+1236,Peoria
+1144,West Peoria
+1646,Peoria
+1622,Peoria
+7180,Peoria
+1621,Peoria
+1339,Peoria
+1371,Peoria
+1910,Peoria
+1327,Peoria
+1410,Peoria
+1308,Kickapoo
+1251,Peoria
+1028,Peoria
+1248,Peoria
+5620,Peoria
+7401,Peoria
+2100,Peoria
+1447,Peoria
+1709,Pekin
+5100,Springfield
+1123,Peoria
+8220,East Peoria
+4130,Peoria
+6700,Peoria
+1458,Peoria Heights
+4701,Peoria
+1670,Peoria
+3350,Peoria
+1445,Peoria
+2010,East Peoria
+3400,Peoria
+9320,Springfield
+1464,Peoria
+4210,Peoria
+1344,Peoria
+1348,Peoria
+1322,Peoria
+1737,Pekin
+1810,Pekin
+1408,Peoria
+7160,Peoria
+1503,Peoria
+1527,Peoria
+1378,Peoria
+1280,Peoria
+1323,Peoria
+1428,Peoria
+1657,Peoria
+2471,Peoria
+4760,Peoria
+1319,Peoria
+8410,Springfield
+6201,Peoria
+1426,Peoria
+1121,Peoria
+4710,Peoria
+1736,Pekin
+6270,Peoria
+1253,Peoria
+8480,East Peoria
+2701,Peoria
+6140,Peoria
+5290,Springfield
+2900,Long Shore Park
+1429,Peoria
+1010,Peoria
+2450,Peoria
+8380,Springfield
+1581,Peoria
+2006,East Peoria
+2314,Grove
+1625,Peoria
+3240,Springfield
+4350,Peoria
+8570,East Peoria
+1277,Peoria
+4790,Peoria
+5180,West Peoria
+3130,Peoria
+1376,Peoria
+2018,East Peoria
+1314,Peoria
+1103,Peoria
+8540,East Peoria
+1413,Peoria Heights
+1466,Peoria
+1406,Peoria
+1418,Peoria
+4740,Peoria
+1817,Pekin
+1138,Peoria
+3180,Springfield
+1223,Peoria Heights
+4680,Peoria
+1601,Peoria
+5580,West Peoria
+2390,Peoria Heights
+4750,Peoria
+1275,Peoria Heights
+6290,Peoria
+2409,Peoria
+0010,Peoria
+2361,Peoria
+1346,Peoria
+1190,Peoria
+6310,Peoria
+2308,East Peoria
+9210,East Peoria
+1377,Peoria
+7250,Peoria
+2271,Peoria
+1330,Peoria
+1239,Peoria
+1216,Peoria Heights
+1043,Peoria
+6200,Peoria
+5475,Peoria
+0116,Pekin
+1481,Peoria
+1655,Peoria
+2220,Peoria
+1518,Peoria
+1237,Peoria
+5520,West Peoria
+2300,Peoria Heights
+1033,Peoria
+3800,Peoria
+1266,Peoria Heights
+1571,Peoria
+2007,Springfield
+8450,East Peoria
+5900,Springfield
+1232,Peoria
+2099,East Peoria
+5380,Peoria
+2290,Peoria
+1049,Peoria
+2017,East Peoria
+1633,Peoria
+1531,Bellevue
+7110,Peoria
+9500,East Peoria
+2350,Long Shore Park
+3280,Peoria
+1442,Peoria
+7240,Peoria
+1370,Peoria
+4770,Peoria
+1703,Springfield
+1209,Peoria
+3310,Peoria
+5610,Peoria
+1635,Peoria
+1444,Peoria
+2600,Peoria
+2019,East Peoria
+1008,Peoria
+1297,Peoria
+5430,Peoria
+6600,Peoria
+4900,Peoria
+2130,Peoria
+7101,Peoria
+9280,East Peoria
+1132,Peoria
+6400,Peoria
+1740,Peoria
+1316,Peoria
+1491,Peoria
+1700,Peoria
+5490,Peoria
+1350,Peoria
+1590,Peoria
+8580,East Peoria
+1005,Peoria
+1381,Peoria
+2303,Grove
+1146,West Peoria
+5650,Peoria
+1291,Peoria
+1471,Peoria
+1047,Peoria
+6230,Peoria
+8520,East Peoria
+3270,Peoria
+2160,Peoria
+2349,Peoria
+2313,Wesley
+1528,Bellevue
+1286,Peoria
+2150,Peoria
+1611,Peoria
+1550,Peoria
+6800,Peoria
+1469,Peoria
+1203,Peoria
+8140,East Peoria
+8500,East Peoria
+4360,Peoria
+1048,Peoria
+1131,Peoria
+5250,Peoria
+6160,Peoria
+1639,Peoria
+6240,Peoria
+5220,Peoria
+4300,Peoria
+1704,Springfield
+1041,Peoria
+4081,Peoria
+7201,Peoria
+2180,Peoria
+1807,Pekin
+1276,Peoria
+1235,Peoria
+1629,Peoria
+7420,Pottstown
+8190,East Peoria
+1671,Peoria
+2661,Peoria
+1171,Peoria
+1124,Peoria
+1446,Peoria
+1380,Peoria
+3260,Peoria
+0108,Pekin
+4601,Peoria
+4570,Peoria
+7200,Springfield
+2002,East Peoria
+1716,Pekin
+1305,Peoria
+3220,Springfield
+1044,Peoria
+1651,Peoria
+6100,Peoria
+1663,Peoria
+1659,Peoria
+9310,East Peoria
+2711,Peoria
+1467,Peoria
+2330,Long Shore Park
+1430,Peoria
+8430,Springfield
+1643,Peoria
+9270,East Peoria
+3500,Peoria
+1632,Peoria
+1311,Peoria
+2011,East Peoria
+1504,Bellevue
+5320,Peoria
+1321,Peoria
+1229,Peoria
+8170,East Peoria
+1213,Peoria
+2020,East Peoria
+1443,Peoria
+1111,Peoria
+0110,Pekin
+1612,Peoria
+9516,Peoria
+1030,Peoria
+1490,Peoria
+8101,East Peoria
+2331,Peoria
+1459,Peoria
+4110,Peoria
+1309,Peoria
+1816,Pekin
+1379,Peoria
+1245,Peoria
+1515,Peoria
+1530,Bellevue
+3201,Springfield
+1431,Peoria
+1334,Peoria
+2261,Peoria
+2461,Peoria
+8260,East Peoria
+2400,Peoria
+1741,Pekin
+5130,West Peoria
+9550,East Peoria
+7230,Springfield
+7430,Maxwell
+4260,Peoria
+1806,Pekin
+4530,Peoria
+6250,Peoria
+1636,Peoria
+4150,Peoria
+1039,Peoria
+1403,Peoria
+5301,Peoria
+3120,Peoria
+4800,Peoria
+9504,Peoria
+7350,Peoria
+1122,Peoria
+2013,East Peoria
+1735,Pekin
+1713,Pekin
+3340,Peoria
+1423,Peoria
+1002,Peoria
+5200,Peoria
+2024,East Peoria
+1114,Peoria
+1241,Peoria
+2302,Pekin
+1526,Peoria
+1313,Peoria
+1421,Peoria
+6350,Peoria
+1436,Peoria
+5600,Peoria
+4480,Peoria
+9110,East Peoria
+2301,Springfield
+1433,Peoria
+1127,Peoria
+1117,Peoria
+1018,Peoria
+1618,Peoria
+8230,East Peoria
+1441,Peoria
+4510,Peoria
+1690,Peoria
+9510,Bellevue
+5190,West Peoria
+1399,Peoria
+7330,Peoria
+0190,Peoria
+5330,Peoria
+5480,Peoria
+1422,Peoria
+1007,Springfield
+2240,Peoria
+1119,Peoria
+8700,East Peoria
+6280,Peoria
+5390,Peoria
+4630,Peoria
+1390,Peoria
+1212,Peoria
+8530,East Peoria
+1660,Peoria
+1329,Springfield
+1801,Pekin
+7120,Peoria
+1470,Peoria
+1620,Peoria
+0112,Pekin
+1650,Peoria
+1415,Peoria
+1215,Peoria Heights
+1034,Peoria
+7410,Pottstown
+8485,East Peoria
+1602,Peoria
+1139,Peoria
+1218,Peoria Heights
+8600,East Peoria
+1129,Peoria
+1233,Peoria
+1015,Peoria
+1540,Peoria
+5570,West Peoria
+7380,Peoria
+1845,Pekin
+1342,Peoria
+4200,Peoria
+4610,Peoria
+1351,Peoria
+7301,Peoria
+6260,Peoria
+2012,East Peoria
+1024,Peoria
+1720,Pekin
+1662,Peoria
+1017,Peoria
+1246,Peoria
+2251,Peoria
+1414,Peoria
+1221,Peoria Heights
+4501,Peoria
+1645,Peoria
+8201,East Peoria
+1025,Springfield
+3150,Peoria
+1455,Peoria
+1269,Peoria Heights
+4700,Peoria
+1448,Peoria
+1040,Springfield
+1461,Peoria
+2190,Peoria
+5240,Peoria
+5510,West Peoria
+2459,Peoria
+1412,Peoria Heights
+8310,East Peoria
+1289,Peoria
+4365,Peoria
+1019,Peoria
+1037,Peoria
+3160,Springfield
+1136,Peoria
+3380,Peoria
+0106,Pekin
+1821,Peoria
+2023,Washington
+2340,Peoria
+1281,Peoria
+1278,Peoria
+1401,Peoria
+1207,Peoria
+2101,Peoria
+2305,East Peoria
+4101,Peoria
+5360,Peoria
+2291,Peoria
+3101,Peoria
+1151,Peoria
+5280,Springfield
+8120,East Peoria
+1815,Pekin
+1870,Peoria
+2501,Peoria
+4640,Peoria
+7170,Peoria
+9553,East Peoria
+1142,Springfield
+1680,Peoria
+2106,Chillicothe
+4220,Peoria
+1642,Peoria
+1264,Peoria
+3320,Peoria
+3200,Springfield
+1009,Peoria
+1150,Peoria
+1691,Peoria
+1359,Peoria
+1105,West Peoria
+1631,Peoria
+2014,East Peoria
+4330,Peoria
+1272,Peoria Heights
+1435,Peoria
+6360,Peoria
+1228,Peoria Heights
+1295,Peoria
+1521,Peoria
+1718,Pekin
+1617,Peoria
+4521,Peoria
+1800,Peoria
+1623,Peoria
+1809,Pekin
+1417,Peoria
+1145,Peoria
+1510,Bellevue
+7400,Springfield
+4540,Peoria
+2109,Peoria
+1256,Peoria
+4440,Peoria
+7130,Peoria
+1627,Peoria
+0013,Peoria
+9160,East Peoria
+1210,Peoria
+1118,Peoria
+1001,Peoria
+1361,Peoria
+1325,Peoria
+4420,Peoria
+9301,East Peoria
+1603,Peoria
+6019,Peoria
+5450,Peoria
+8490,East Peoria
+1352,Peoria
+4550,Peoria
+1439,Peoria
+9220,East Peoria
+2200,Peoria
+8270,Springfield
+5101,West Peoria
+1472,Peoria
+4201,Peoria
+9300,East Peoria
+1514,Peoria
+4340,Peoria
+1234,Peoria
+1345,Peoria
+1109,West Peoria
+1242,Peoria
+1604,Peoria
+1570,Peoria
+1267,Peoria Heights
+1324,Peoria
+7390,Peoria
